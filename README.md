@@ -11,12 +11,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=Evently" />
 </a>
 
-<a href="https://github.com/your-username/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2" />
+<a href="https://github.com/RoKols2017/sales-analyzer">
+  <img src="https://github.com/RoKols2017/sales-analyzer" />
 </a>
 
-<a href="https://github.com/your-username/project-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3" />
+<a href="https://github.com/RoKols2017/recipe-platform">
+  <img src="https://github.com/RoKols2017/recipe-platform" />
 </a>
 
 </div>
