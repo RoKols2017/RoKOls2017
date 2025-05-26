@@ -19,6 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=recipe-platform" />
 </a>
 
+<a href="https://github.com/RoKols2017/departments_telegram_bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=departments_telegram_bot" />
+</a>
+
 </div>
 
 ---
