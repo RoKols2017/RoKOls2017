@@ -12,11 +12,11 @@
 </a>
 
 <a href="https://github.com/RoKols2017/sales-analyzer">
-  <img src="https://github.com/RoKols2017/sales-analyzer" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=sales-analyzer" />
 </a>
 
 <a href="https://github.com/RoKols2017/recipe-platform">
-  <img src="https://github.com/RoKols2017/recipe-platform" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=recipe-platform" />
 </a>
 
 </div>
