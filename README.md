@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Привет! Я [Твоё Имя] 👋</h1>
+<p align="center">🔧 Разработчик | 💡 Инженер идей | ☕ Любитель чистого кода</p>
 
-<!--
-**RoKols2017/RoKOls2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Избранные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<a href="https://github.com/your-username/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1" />
+</a>
+
+<a href="https://github.com/your-username/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2" />
+</a>
+
+<a href="https://github.com/your-username/project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3" />
+</a>
+
+</div>
+
+---
+
+## 📫 Как со мной связаться
+
+- LinkedIn: [твой линк](https://linkedin.com/in/...)
+- Email: you@example.com
+
+---
+
+⭐️ Спасибо, что заглянул в мой профиль! Не забудь поставить ⭐ на интересные проекты!
