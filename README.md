@@ -14,25 +14,21 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=Evently" />
 </a>
 <br/>
-Evently — a modern platform for event management.
 
 <a href="https://github.com/RoKols2017/sales-analyzer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=sales-analyzer" />
 </a>
 <br/>
-Sales Analyzer — a tool for analyzing sales and generating reports.
 
 <a href="https://github.com/RoKols2017/recipe-platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=recipe-platform" />
 </a>
 <br/>
-Recipe Platform — a service for searching and sharing recipes.
 
 <a href="https://github.com/RoKols2017/departments_telegram_bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=departments_telegram_bot" />
 </a>
 <br/>
-Departments Telegram Bot — a bot for managing company departments via Telegram.
 
 </div>
 
