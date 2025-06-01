@@ -11,7 +11,6 @@
 <div align="center">
 
 <a href="https://github.com/RoKols2017/Evently">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=Evently" />
 </a>
 <br/>
 Evently — современная платформа для управления мероприятиями.
