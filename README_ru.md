@@ -6,34 +6,32 @@
 
 ---
 
-## 🚀 Избранные проекты
+<h2>🚀 Избранные проекты</h2>
 
-<div align="center">
+<div class="cards-wrapper">
+  <div class="card">
+    <h3><a href="https://github.com/RoKols2017/Evently">📁 Evently</a></h3>
+    <p>Evently — современная платформа для управления мероприятиями.</p>
+    <p><em>Python</em></p>
+  </div>
 
-<a href="https://github.com/RoKols2017/Evently">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=Evently" />
-</a>
-<br/>
-Evently — современная платформа для управления мероприятиями.
+  <div class="card">
+    <h3><a href="https://github.com/RoKols2017/sales-analyzer">📊 Sales Analyzer</a></h3>
+    <p>Инструмент для анализа продаж и формирования отчетов.</p>
+    <p><em>Python</em></p>
+  </div>
 
-<a href="https://github.com/RoKols2017/sales-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=sales-analyzer" />
-</a>
-<br/>
-Sales Analyzer — инструмент для анализа продаж и формирования отчетов.
+  <div class="card">
+    <h3><a href="https://github.com/RoKols2017/recipe-platform">🍲 Recipe Platform</a></h3>
+    <p>Сервис для поиска и обмена рецептами.</p>
+    <p><em>Python</em></p>
+  </div>
 
-<a href="https://github.com/RoKols2017/recipe-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=recipe-platform" />
-</a>
-<br/>
-Recipe Platform — сервис для поиска и обмена рецептами.
-
-<a href="https://github.com/RoKols2017/departments_telegram_bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoKols2017&repo=departments_telegram_bot" />
-</a>
-<br/>
-Departments Telegram Bot — бот для управления отделами компании через Telegram.
-
+  <div class="card">
+    <h3><a href="https://github.com/RoKols2017/departments_telegram_bot">🤖 Telegram Bot</a></h3>
+    <p>Бот для управления отделами компании через Telegram.</p>
+    <p><em>Python</em></p>
+  </div>
 </div>
 
 ---
